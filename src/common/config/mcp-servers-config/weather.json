@@ -2,7 +2,7 @@
   "weather": {
     "command": "/opt/homebrew/bin/node",
     "args": [
-      "/Users/xugf/webser/mcp-servers/build/weather/index.js"
+      "/Users/xxxx/webser/mcp-servers/build/weather/index.js"
     ],
     "env": {
       "OPENWEATHER_API_KEY": "此处填写你的API Key"
